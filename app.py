@@ -242,7 +242,7 @@ if __name__ == '__main__':
 
   pred = Prediction(tokenizer)
 
-  app.run()
+  app.run(debug=False)
 
 
 
